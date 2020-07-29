@@ -1,0 +1,56 @@
+<html>
+<head> 
+<title> Skypoint </title>
+</head>
+<body bgcolor="silver">
+<table cellpadding="8" width="650">
+<tr bgcolor="teal">
+<td>
+<img width="240" height="240" src="A.jpeg">
+<ul style="list-style-type: square">
+<li>
+<a href="http://www.home.html"><img width="65" height="22" src="IMG_2.JPG"></a></li>
+<li><a href="http://www.menu.html"><img width="65" height="22" src="IMG_20.JPG"></a></li>
+<li>
+<a href="http//:www.products.html"><img width="65" height="22" src="IMG_202.JPG"></a><li> 
+</ul>
+</td>
+<td>
+<h1> Welcome To Skypoint </h1>
+<img width="480" height="360" src="A.jpeg"></td>
+</tr>
+<tr>
+<td background="A.jpeg">
+</td>
+<td>
+<p style="border-style: solid; padding: 15px"><b>Here</b> You Can find all your web design solutions.We do all kinds of HTML & CSS works by deal.</p>
+</td>
+</tr>
+</table>
+<hr color="black">
+
+<form>
+<p><h3>Select Your Job</h3></p>
+<input type="radio" name="section" value="Web Design">Web Design<br>
+<input type="radio" name="section" value="Business ">Web Development<br>
+<input type="radio" name="section" value="Humanities">Style Sheet<br>
+</form>
+<form>
+<b>Name</b><textarea name="name" placeholder="Enter your name"></textarea><br>
+<b>Password:</b><input type="password" name="password"><br>
+<textarea name="comments" rows="6" cols="50"  placeholder="Enter    comments here"></textarea><br>
+<input type="submit" value="send"><br>
+<input type="reset" value="clear">
+</form>
+<h2>More about me</h2>
+<table>
+<tr>
+<td>
+<big>Name: Akash Chandra Datta</big></td></tr>
+<tr>
+<td>
+<big>Address: Dokanghor, Puranbazar, Chandpur.</big></td></tr>
+
+</body>
+</html>
+
